@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_gpkfsigpkfsigpkf.png" width="300" alt="networks-cmd logo">
+  <img src="Gemini_Generated_Image_gpkfsigpkfsigpkf.png" alt="networks-cmd logo">
 </p>
 
 ---
