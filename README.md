@@ -1,4 +1,6 @@
-[logo](Gemini_Generated_Image_gpkfsigpkfsigpkf.png)
+<p align="center">
+  <img src="Gemini_Generated_Image_gpkfsigpkfsigpkf.png" width="300" alt="networks-cmd logo">
+</p>
 # 🌐 networks-cmd
 [![Language](https://img.shields.io/badge/Language-English%20%2F%20Arabic-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.x-green.svg)]()
